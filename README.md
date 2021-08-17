@@ -1,0 +1,2 @@
+# substring_kmp_search
+通过kmp算法获取子字符串在父字符串中出现的位置
